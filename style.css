@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color: #ea76c5;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+.option-one-screen {
+   display:none;
+} 
+body {
+    text-align: center;
+
+}
+.option-two-screen {
+   display:none;
+} 
+
+
+.option-Three-Screen {
+   display:none;
+}
+.option-two { 
+  display:none;
+  
+}
